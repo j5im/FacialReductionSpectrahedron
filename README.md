@@ -1,6 +1,6 @@
 # Facial Reduction Spectrahedron
 
-This repository contains a MATLAM implementation of the facial reduction code for standard spectrahedra. 
+This repository contains a MATLAB implementation of the facial reduction code for standard spectrahedra. 
 
 (1) main.m is used to load an instance and call the facial reduction algorithm. 
 
