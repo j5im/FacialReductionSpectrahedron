@@ -1,4 +1,4 @@
-# Facial Reduction Spectrahedron
+# A Facial Reduction Algorithm for Spectrahedron
 
 This repository contains a MATLAB implementation of the facial reduction code for standard spectrahedra. 
 
