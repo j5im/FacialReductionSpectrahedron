@@ -1,4 +1,4 @@
-# FacialReductionSpectrahedron
+# Facial Reduction Spectrahedron
 
 This repository contains the facial reduction code for standard spectrahedra. 
 
